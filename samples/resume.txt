@@ -1,0 +1,27 @@
+Name: Alex Kim
+Email: alex.kim@example.com
+LinkedIn: linkedin.com/in/alex-kim-dev
+GitHub: github.com/alexkimdev
+
+Summary:
+Aspiring software engineer with hands-on experience in Python, APIs, and lightweight databases. Passionate about building AI-driven tools that solve real-world problems.
+
+Skills:
+- Languages: Python, JavaScript
+- Tools: Git, SQLite, Postman, Flask
+- APIs: OpenAI, Google Gemini, NewsAPI
+- Concepts: OOP, REST APIs, Prompt Engineering
+
+Projects:
+**AI URL Trustworthiness Evaluator**
+- Built a Python CLI tool to classify URLs as safe or suspicious using Google Gemini API.
+- Implemented caching with SQLite and added logic for expiration and manual deletion.
+- Secured API keys using dotenv files and modularized code for maintainability.
+
+**Reddit Sentiment Analyzer**
+- Created a tool that scrapes Reddit comments and uses OpenAI to summarize public opinion on companies.
+- Integrated visualization libraries to display sentiment trends.
+
+Education:
+B.S. in Computer Science (in progress)
+Queens College, CUNY – Expected 2027

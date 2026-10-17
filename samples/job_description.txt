@@ -1,0 +1,19 @@
+Position: Junior Software Engineer
+Location: Remote
+Company: TechNova AI
+
+TechNova AI is seeking a motivated Junior Software Engineer to join our fast-growing team. You’ll work with senior developers to build scalable web applications and integrate AI services.
+
+Responsibilities:
+- Collaborate with the engineering team to build and maintain Python backend services.
+- Consume REST APIs and integrate third-party AI tools (e.g., OpenAI, Gemini).
+- Work with SQL or NoSQL databases.
+- Write clean, testable, and well-documented code.
+- Participate in code reviews and Agile sprints.
+
+Requirements:
+- Proficiency in Python and familiarity with Flask or Django.
+- Experience using APIs and parsing JSON responses.
+- Working knowledge of Git and version control workflows.
+- Strong communication and problem-solving skills.
+- A degree in CS or relevant bootcamp experience is a plus.
